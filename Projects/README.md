@@ -1,2 +1,1 @@
-#About
 In this repository, I display my compitence using the C programming language and understanding of computer architecture. Included are my solutions to assignments from my operating systems and computer architecture courses at California State University, Sacramento.
